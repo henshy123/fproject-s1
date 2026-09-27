@@ -1,0 +1,716 @@
+header {
+
+    width: 1216;
+    height: 80px;
+    top: 87px;
+    left: 32px;
+    opacity: 1;
+}
+
+.header {
+    display: flex;
+    gap: 30px;
+    position: relative;
+    top: -5px;
+    left: 1516px;
+
+}
+
+.headerp {
+    color: #F6F5EF;
+    font-family: "DM Sans", sans-serif;
+    margin: 0;
+}
+
+
+body {
+    background-color: #11131F;
+    font-family: "DM Sans", sans-serif;
+}
+
+.headerimg {
+    position: relative;
+    top: 15px;
+    left: 50px;
+}
+
+.headerline {
+    width: 92%;
+    position: relative;
+    left: 25px;
+}
+
+.sec1i {
+    background: linear-gradient(90deg, #BEC7C2, #A1B5BA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: "DM Sans", sans-serif;
+}
+
+.h1sec1 {
+    color: #F6F5EF;
+}
+
+.maskgroup {
+    position: relative;
+    left: 25px;
+}
+
+.m12 {
+    position: relative;
+    top: -150px;
+    left: 75px;
+    font-size: 50px;
+}
+
+.sec1p {
+    width: 100;
+    height: 15;
+    opacity: 1;
+    position: relative;
+    top: -235px;
+    left: 200px;
+}
+
+.ou {
+    position: relative;
+    top: -710px;
+    left: 60px;
+}
+
+.boy1 {
+    position: relative;
+    top: -520px;
+    right: 380px;
+}
+
+.boy2 {
+    position: relative;
+    top: -520px;
+    right: 350px;
+}
+
+.girl {
+    position: relative;
+    top: -520px;
+    right: 460px;
+
+}
+
+.yacht {
+    position: relative;
+    right: 820px;
+    top: -150px;
+}
+
+.starina {
+    position: relative;
+    top: -325px;
+    right: 250px;
+}
+
+.ts1 {
+    position: relative;
+    left: 900px;
+    width: 554px;
+    height: 198;
+    angle: 0 deg;
+    opacity: 1;
+    top: -750px;
+    font-size: 40px;
+}
+
+.psec1 {
+    width: 554px;
+    height: 198px;
+    angle: 0 deg;
+    opacity: 1;
+    color: white;
+    position: relative;
+    top: -795px;
+    left: 900px;
+}
+
+.gs {
+    background-color: #93ABAE;
+    border-radius: 60px;
+    border: none;
+    width: 150;
+    height: 48;
+    angle: 0 deg;
+    opacity: 1;
+    gap: 10px;
+    border-radius: 60px;
+    padding-top: 14px;
+    padding-right: 28px;
+    padding-bottom: 14px;
+    padding-left: 28px;
+    margin-left: 900px;
+    top: -830px;
+    font-family: "DM Sans", sans-serif;
+    color: white;
+}
+
+.divsec1 {
+    position: relative;
+    left: 200px;
+    top: 100px;
+    transform: scale(1.1);
+}
+
+.exp {
+    background-color: #11131F;
+    border-color: #F6F5EF;
+    width: 117;
+    height: 48;
+    angle: 0 deg;
+    opacity: 1;
+    gap: 10px;
+    border-width: 1px;
+    border-radius: 60px;
+    padding-top: 14px;
+    padding-right: 28px;
+    padding-bottom: 14px;
+    padding-left: 28px;
+    color: white;
+    font-family: "DM Sans", sans-serif;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.buttondiv {
+    position: relative;
+    top: -920px;
+}
+
+.spansec2 {
+    color: white;
+    font-family: "DM Sans", sans-serif;
+    position: relative;
+    top: -500px;
+    width: 514px;
+    height: 152px;
+    left: 32px;
+    angle: 0 deg;
+    opacity: 1;
+
+}
+
+.h2sec2 {
+    color: #A1B5BA;
+
+}
+
+.spans2 {
+    width: 514px;
+    height: 152px;
+    angle: 0 deg;
+    opacity: 1;
+    top: 913px;
+    left: 32px;
+}
+
+.buttondiv2 button {
+    background-color: #11131F;
+    border-radius: 60px;
+    width: 50;
+    height: 36px;
+    gap: 10px;
+    border-width: 1px;
+    padding-top: 14px;
+    padding-right: 16px;
+    padding-bottom: 14px;
+    padding-left: 16px;
+    border-color: #F6F5EF;
+}
+
+.bimg {
+    position: relative;
+    top: -4px;
+    width: 50px;
+    height: 36px;
+    background-color: #11131F;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    transform: scale(1.2);
+}
+
+.divgallery1 {
+    position: relative;
+    width: 354px;
+    height: 508px;
+    angle: 0 deg;
+    opacity: 1;
+
+}
+
+.bgimage {
+    position: absolute;
+    width: 1950px;
+    top: 2400px;
+    opacity: 0.3;
+}
+
+.sec2 {
+    position: relative;
+    z-index: 6;
+}
+
+.bigycht {
+    width: 533.0000000000008px;
+    height: 473.000000000004px;
+    top: 1219px;
+    left: 372px;
+    angle: -0 deg;
+    opacity: 1;
+    border-radius: 24px;
+    position: relative;
+    left: 800px;
+    top: -900px;
+    transform: scale(1.6);
+
+}
+
+.spansec2 {
+    width: 733px;
+    height: 673px;
+
+}
+
+.spansec2 h2 {
+    width: 100%;
+    margin: 0;
+    font-family: DM Sans;
+    font-weight: 500;
+    font-style: Italic;
+    font-size: 32px;
+    leading-trim: NONE;
+    line-height: 120%;
+    letter-spacing: -4.5%;
+    font-size: 45px;
+}
+
+.spans2 {
+    position: relative;
+    color: white;
+    top: -1213px;
+    left: 1400px;
+    opacity: 1;
+    width: 450px;
+    display: flex;
+    gap: 20px;
+}
+
+.spans2 p {
+    width: 400px;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.midycht {
+    position: relative;
+    top: -750px;
+    right: 360px;
+    transform: scale(1.59);
+}
+
+.smlycht {
+    position: relative;
+    z-index: 3;
+    transform: scale(1.4);
+    right: 165px;
+    top: -410px;
+}
+
+.h1sec2 {
+    position: relative;
+    z-index: 7;
+    color: #F6F5EF;
+    width: 1082px;
+    height: 530px;
+    font-size: 100px;
+    top: 600px;
+    font-family: "DM Sans", sans-serif;
+    left: 450px;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 125px;
+    line-height: 110.00000000000001%;
+    letter-spacing: -4.5%;
+}
+
+.divsec1 {
+    position: relative;
+}
+
+.sec3 {
+    margin-top: -500px;
+}
+
+.ell1 {
+    position: absolute;
+    z-index: 9999;
+    top: 2300px;
+    right: 600px;
+}
+
+.ell2 {
+    position: absolute;
+    z-index: 7;
+    top: 2400px;
+    right: 400px;
+}
+
+.sdg1 div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    margin-top: -15px;
+
+}
+
+.sec4 {
+    margin-top: 165px;
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+}
+
+.divgallery1 {
+    position: relative;
+    z-index: 5;
+    width: 354px;
+    height: 558px;
+    background-color: #1F212D;
+    border-radius: 20px;
+    transform: scale(1.3);
+    left: 50px;
+
+}
+
+.divycht1 {
+    position: relative;
+    left: 17px;
+    top: 15px;
+}
+
+.sdg1 {
+    display: flex;
+    color: #F6F5EF;
+    font-family: "DM Sans", sans-serif;
+    font-size: 14px;
+    gap: 1px;
+    flex-direction: column;
+    position: relative;
+    left: 30px;
+    top: 10px;
+
+}
+
+
+.ychtrental {
+    position: relative;
+    background-color: #11131F;
+    width: 130px;
+    height: 53px;
+    gap: 10px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 30px;
+    border-width: 1px;
+    color: white;
+    border: white;
+    right: 650px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.bimg2 {
+    position: relative;
+    width: 50px;
+    height: 36px;
+    background-color: #11131F;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    transform: scale(1.2);
+}
+
+.diving {
+    position: relative;
+    transform: scale(1.3);
+    left: 150px;
+}
+
+.sec5 {
+    position: relative;
+    top: 250px;
+}
+
+.fishing {
+    position: relative;
+    left: 450px;
+    transform: scale(1.3);
+    top: 35px;
+}
+
+.sunbathing {
+    position: relative;
+    top: 550px;
+    transform: scale(1.2);
+    right: 650px;
+}
+
+.bdiving {
+    position: relative;
+    width: 136px;
+    height: 58px;
+    left: -632px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 60px;
+    padding-top: 14px;
+    padding-right: 28px;
+    padding-bottom: 14px;
+    padding-left: 28px;
+    gap: 10px;
+    border: none;
+    top: 50px;
+}
+
+.bdiving p {
+    position: relative;
+    top: -16px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.bfishing {
+    position: relative;
+    width: 113px;
+    height: 48px;
+    top: 70px;
+    left: -12px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 60px;
+    padding-top: 14px;
+    padding-right: 28px;
+    padding-bottom: 14px;
+    padding-left: 28px;
+    gap: 10px;
+    border: none;
+}
+
+.bfishing p {
+    position: relative;
+    top: -17px;
+    font-weight: 650;
+    font-size: 18px;
+}
+
+.bsunbathing {
+    position: relative;
+    width: 148px;
+    height: 48px;
+    top: 512px;
+    left: 752px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 60px;
+    padding-top: 14px;
+    padding-right: 28px;
+    padding-bottom: 14px;
+    padding-left: 28px;
+    gap: 10px;
+    border: none;
+    font-weight: 650;
+    font-size: 18px;
+}
+
+
+.sec6 {
+    position: relative;
+    top: 1000px;
+
+}
+
+
+.contact-form {
+    width: 390px;
+    color: white;
+}
+
+.form-group {
+    margin-bottom: 25px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    box-sizing: border-box;
+
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #aaa;
+
+    color: white;
+    outline: none;
+
+    font-size: 15px;
+    padding: 0 0 12px;
+}
+
+.form-group input {
+    height: 25px;
+}
+
+.form-group textarea {
+    height: 55px;
+    resize: none;
+}
+
+.bsend {
+    position: relative;
+    width: 132px;
+    height: 48px;
+    gap: 16px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 60px;
+    border-width: 1px;
+    padding-top: 14px;
+    padding-right: 28px;
+    padding-bottom: 14px;
+    padding-left: 28px;
+    background: none;
+    color: white;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+    font-weight: 520;
+    font-size: 18px;
+    top: 50px;
+}
+
+.bsend p {
+    position: relative;
+    top: -17px;
+    left: -10px;
+}
+
+.bsend img {
+    position: relative;
+    top: -57px;
+    left: 30px;
+}
+
+.divform {
+    position: relative;
+    left: 1200px;
+    transform: scale(1.1);
+    top: -200px;
+}
+
+.h1sec6 {
+    position: relative;
+    width: 282px;
+    height: 132px;
+    angle: 0 deg;
+    opacity: 1;
+    color: white;
+    font-family: DM Sans;
+    font-weight: 500;
+    font-size: 60px;
+    leading-trim: NONE;
+    line-height: 110.00000000000001%;
+    letter-spacing: -4.5%;
+    left: 300px;
+    top: 75px;
+}
+
+.yachtfo {
+    position: relative;
+    left: 300px;
+    top: 100px;
+}
+
+.modalp {
+    width: 442px;
+    height: 88px;
+    angle: 0 deg;
+    opacity: 1;
+    color: white;
+}
+
+.modalh1 {
+    width: 282;
+    height: 38;
+    angle: 0 deg;
+    opacity: 1;
+    color: white;
+
+}
+
+.modal {
+    position: fixed;
+    width: 570px;
+    height: 522px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 40px;
+    top: 23%;
+    left: 600px;
+    background-color: #1F212D;
+    display: none;
+}
+
+.modalelipse {
+    position: absolute;
+    width: 575px;
+    height: 604px;
+    top: -110px;
+    left: 11px;
+    angle: 0 deg;
+    opacity: 1;
+    z-index: 2;
+}
+
+.modalspan {
+    position: relative;
+    top: 90px;
+    right: -50px;
+}
+
+.modalyacht {
+    position: relative;
+    top: 50px;
+    left: 70px;
+    z-index: 3;
+}
+
+.hrest {
+    position: relative;
+    background: none;
+    border: none;
+    top: -390px;
+    width: 24;
+    height: 24px;
+    left: 514px;
+    angle: 0 deg;
+    opacity: 1;
+    z-index: 9999;
+}

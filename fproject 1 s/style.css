@@ -1,6 +1,6 @@
 header {
 
-    width: 1216;
+    width: 1216px;
     height: 80px;
     top: 87px;
     left: 32px;
@@ -713,4 +713,96 @@ body {
     angle: 0 deg;
     opacity: 1;
     z-index: 9999;
+}
+
+
+.sec7 {
+    position: relative;
+    top: 1000px;
+    color: white;
+}
+
+
+.gray {
+    position: relative;
+    color: #F6F5EF80;
+    width: 320px;
+    height: 110px;
+    angle: 0 deg;
+    opacity: 1;
+ left: 31px;
+ top: 10px;
+}
+
+.boy1 {
+    position: relative;
+    width: 384px;
+    height: 282px;
+    gap: 8px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 24px;
+    padding: 32px;
+    background-color: #1F212D;
+    left: 30px;
+    top: 500px;
+}
+
+
+.girl {
+    position: relative;
+    width: 384px;
+    height: 282px;
+    gap: 8px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 24px;
+    padding: 32px;
+    background-color: #1F212D;
+    top: 155px;
+    left: 540px;
+}
+
+.boy2 {
+    position: relative;
+    width: 384px;
+    height: 282px;
+    gap: 8px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 24px;
+    padding: 32px;
+    background-color: #1F212D;
+    left: 1050px;
+    top: -190px;
+}
+
+.otzyv {
+    position: relative;
+    left: 200px;
+    transform: scale(1.1);
+}
+
+.iotzyv {
+    position: relative;
+    left: 162px;
+}
+
+.potzyv {
+    position: relative;
+    left: 152px;
+    display: flex;
+    top: 20px;
+}
+
+.ppotzyv {
+    position: relative;
+    left: 120px;
+    top: 20px;
+}
+
+.pppotzyv {
+    position: relative;
+    left: 150px;
+    top: 20px;
 }
